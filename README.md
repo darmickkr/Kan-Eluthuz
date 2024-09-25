@@ -1,45 +1,28 @@
-# Kan Eluthuz - Tamil to Braille Translation App
+# Lingual AI Braille Technology
 
-##  Project Description
-
-**Kan Eluthuz** is an innovative application designed to convert Tamil text into Braille, offering a digital solution for visually impaired individuals in Tamil-speaking communities. The project aims to tackle the challenges faced by blind individuals, particularly in accessing educational content in their native language. 
-
----
+## Project Description
+Lingual AI Braille Technology is an innovative application designed to convert regional languages, Initally we starting with Tamil, into Braille. This digital solution aims to enhance accessibility for visually impaired individuals in Tamil-speaking communities, addressing the challenges they face in accessing educational content in their native language.
 
 ## Overview
-
-The **Kan Eluthuz** app addresses key problems such as the lack of accessible Braille learning tools for Tamil speakers. Our solution includes a comprehensive system that translates Tamil text and PDFs into Braille using our custom **Sorkal Algorithm**. This app is further enhanced with an AI voice assistant for step-by-step guidance and OCR technology for text extraction from images.
-
----
+The Lingual AI Braille app tackles the critical issue of limited Braille learning tools available for speakers of regional languages. Our comprehensive system translates Tamil text and PDFs into Braille using the custom-built Sorkal Algorithm. Additionally, the app features an AI voice assistant that provides step-by-step guidance and employs OCR technology for text extraction from images.
 
 ## Key Features
-
-- **Tamil to Braille Translation**: Converts Tamil texts and PDFs into Braille seamlessly.
-- **Sorkal Algorithm**: Custom-built for accurate Tamil-Braille conversion.
-- **AI Voice Assistant**: Provides interactive guidance throughout the process.
+- **Regional Language to Braille Translation**: Seamlessly converts Tamil texts and PDFs into Braille.
+- **Sorkal Algorithm**: A custom algorithm designed for accurate translation of Tamil to Braille.
+- **AI Voice Assistant**: Offers interactive guidance throughout the translation process.
 - **OCR Technology**: Extracts Tamil text from images and converts it to Braille.
-- **Document Storage**: Saves converted documents for future access.
-- **Hardware Integration**: Supports Braille feedback via interactive hardware.
-
----
+- **Document Storage**: Saves converted documents for future reference.
+- **Hardware Integration**: Provides Braille feedback via interactive hardware.
 
 ## Technology Stack
-
 - **Languages**: Python, C#
 - **Frameworks**: Flutter, Flask
 - **Hardware**: Arduino Mega, Bluetooth modules, Tactile Push Buttons
 - **Testing Tools**: Postman for API integration and testing
-- **Custom Algorithm**: Sorkal Algorithm for TamilBraille translation
-
----
+- **Custom Algorithm**: Sorkal Algorithm for Tamil to Braille translation
 
 ## Important Notice
-
-Due to ongoing efforts towards **paper publication**, the **source code** of this project is currently unavailable. However, you are welcome to explore the **project output** for a demonstration of its functionality.
-
----
+Due to ongoing efforts towards paper publication, the source code of this project is currently unavailable. However, you are welcome to explore the project output for a demonstration of its functionality.
 
 ## Conclusion
-
-**Kan Eluthuz** is a unique project designed to empower visually impaired individuals by offering an efficient and accessible Tamil-to-Braille translation solution. As we continue refining the project and preparing for publication, we are excited about its potential to make a meaningful impact on the lives of Tamil-speaking blind communities.
-
+Lingual AI Braille Technology is a pioneering project designed to empower visually impaired individuals by providing an efficient and accessible translation solution from regional languages to Braille. As we continue to refine the project and prepare for publication, we are excited about its potential to make a meaningful impact on the lives of blind communities in Tamil-speaking regions.
